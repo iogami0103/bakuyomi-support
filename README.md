@@ -4,3 +4,4 @@
 
 - サポート: https://iogami0103.github.io/bakuyomi-support/
 - プライバシーポリシー: https://iogami0103.github.io/bakuyomi-support/privacy.html
+- 子どもの安全基準: https://iogami0103.github.io/bakuyomi-support/child-safety.html
