@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "minIntervalMs": 2000,
+  "backgroundIntervalMs": 3000,
+  "maxConcurrent": 10,
+  "requestsEnabled": true,
+  "bulkSaveEnabled": true,
+  "notice": "",
+  "minVersionCode": 0,
+  "minIosBuild": 0
+}
